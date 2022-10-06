@@ -369,7 +369,7 @@ img {
         width: 3rem;
     }
     #PROJECT {
-        margin-top: 9rem;
+        margin-top: 8rem;
     }
     #main {
         width: 100%;
@@ -378,6 +378,7 @@ img {
         display: flex;
         justify-content: center;
         align-items: center;
+        margin-bottom: 200px;
     }
     #center {
         width: 100%;
