@@ -37,6 +37,7 @@ body {
     margin-top: 100px;
     margin-inline: 30px;
     color: black;
+    z-index:999;
 }
 
 .base-text {
@@ -258,6 +259,7 @@ img {
         padding-inline: 1rem;
         color:black;
         font-style: bold;
+        z-index:999;
     }
 
     .base-text {
